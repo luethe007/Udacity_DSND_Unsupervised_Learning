@@ -13,7 +13,7 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [seaborn](http://seaborn.pydata.org/)
 - [SciPy](http://www.scipy.org/)
 
-You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
+You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html).
 
 I recommend installing [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
